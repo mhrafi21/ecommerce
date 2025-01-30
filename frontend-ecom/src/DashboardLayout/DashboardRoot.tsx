@@ -52,6 +52,12 @@ const DashboardRoot: React.FC = () => {
       icon: "🔧",
       path: "/dashboard/settings",
     },
+    {
+      title: "Settings",
+      icon: "🔧",
+      path: "/dashboard/settings",
+    },
+
   ];
 
   return (
